@@ -8,7 +8,7 @@ It added a lot of new weapons--mauls!It helps player survives.
 
 If you find bugs,please pass on to me in Issues.
 
-To download please visit CurseForge.
+To download please visit CurseForge:https://minecraft.curseforge.com/projects/ore-maul.
 
 简体中文：
 
@@ -18,4 +18,4 @@ To download please visit CurseForge.
 
 如果你发现了一些bug，请在Issues区反馈。
 
-下载请访问CurseForge。
+下载请访问CurseForge：https://minecraft.curseforge.com/projects/ore-maul
